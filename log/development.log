@@ -1177,3 +1177,737 @@ Processing FooController#bar (for 127.0.0.1 at 2010-01-19 17:46:43) [GET]
 Rendering template within layouts/application
 Rendering foo/bar
 Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:01:46) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 44ms (View: 43, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:01:46) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:01:47) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:01:47) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:01:49) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:01:49) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:01:49) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:02:10) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 21ms (View: 20, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:02:11) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:02:11) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:02:12) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:02:12) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:02:12) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:02:12) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:02:19) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 22ms (View: 20, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:02:20) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:02:20) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:02:21) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:02:21) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:02:21) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:02:43) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 21ms (View: 20, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:02:44) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:02:44) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:02:45) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:02:45) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:02:45) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:02:45) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:02:46) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:02:46) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:02:46) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:02:46) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:02:46) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:02:46) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:03:00) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 21ms (View: 20, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 18:03:00) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 21:42:19) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 21ms (View: 20, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 21:42:19) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 21:42:20) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 21:42:20) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 21:42:21) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 21:42:22) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 21:42:22) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 21:42:23) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 21:42:24) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 21:42:25) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 21:42:26) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 21:42:26) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 21:42:27) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 21:42:33) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 21:42:33) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-19 21:42:34) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#index (for 127.0.0.1 at 2010-01-20 13:43:23) [GET]
+
+ActionController::UnknownAction (No action responded to index. Actions: bar and get_theme):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:43:26) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 70ms (View: 66, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:43:27) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 19ms (View: 17, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:43:27) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 25ms (View: 22, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:43:28) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 15ms (View: 12, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:47:12) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 20ms (View: 18, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:47:13) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 29ms (View: 26, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:47:13) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:47:14) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 7ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:47:15) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:47:15) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 15ms (View: 12, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:47:16) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:47:17) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:54:48) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:54:49) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:54:50) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:54:50) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:54:50) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:54:51) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 28ms (View: 26, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:54:52) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:54:52) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:54:53) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 18ms (View: 13, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:55:11) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:55:12) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:55:12) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:55:12) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 10ms (View: 7, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:55:13) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:55:13) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:55:14) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:55:15) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:55:15) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:55:16) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:55:16) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:55:17) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 6ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:55:18) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:55:19) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:55:19) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:55:20) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:55:21) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:57:25) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:57:25) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 99ms (View: 97, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:57:26) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:57:27) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 7ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:57:28) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:57:35) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 32ms (View: 30, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:57:36) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 7ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:57:37) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:57:38) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:57:38) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:57:39) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:57:39) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:57:40) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:57:40) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:57:41) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 6ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:57:41) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 13:57:42) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 8ms (View: 3, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 14:00:28) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 32ms (View: 31, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 14:00:28) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 14:00:29) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 14:00:30) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 14:00:31) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 14:00:31) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 14:00:36) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 14:00:37) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 14:00:37) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 14:00:38) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 6ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 14:00:38) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 14:00:39) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 14:00:40) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 14:00:41) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/foo/bar]
+
+
+Processing FooController#bar (for 127.0.0.1 at 2010-01-20 14:00:48) [GET]
+Rendering template within layouts/application
+Rendering foo/bar
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/foo/bar]
